@@ -4,7 +4,11 @@
 
 Suppose you work at a Chocolate Manufacturing Factory as Technical Specialist to support The Chocolate Factory line operators. You are commissioned to launch a new near real-time dashboard to support operators monitor running operations for the Fanning/Roasting, Grinding and Moulding processes to answer questions such as: 
 •	find all time windows when temperature during roasting is >150°F in the previous 24 hours and trace back events in ADT leading to that
+
+
 •	Calculate the average Grinding vibration in the last 2 minutes to ensure the process meets manufacturing quality standards
+
+
 •	Find all incidents with unusually higher than normal molding temperature in the previous 5 days
 
 Also, you may need to gather historical data that can be used for postmortem root-cause analysis when all operations fail, correct the problem and set up a better notification system for these incidents.
